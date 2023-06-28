@@ -6,7 +6,7 @@
 
 - Project Description
 - Installation
-Usage
+- Usage
 Contributing
 License
 Project Description
