@@ -2,7 +2,7 @@
 
 - This is a simple C# project created as part of learning the C# programming language.
 <hr>
-<h1 align="center"><i>Table of Contents⚔️:-</i></h1>
+<h1 align="center"><i>Table of Contents📑:-</i></h1>
 
 - Project Description
 - Installation
