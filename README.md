@@ -1,4 +1,4 @@
-<h1 align="center"><i>First-CS:-</i></h1>
+<h1 align="center"><i>First-CS#:-</i></h1>
 
 - This is a simple C# project created as part of learning the C# programming language.
 <hr>
