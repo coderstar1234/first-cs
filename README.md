@@ -10,7 +10,7 @@
 - Contributing
 - License
  <hr>
-<h1 align="center"><i>Project Description:-</i></h1>
+<h1 align="center"><i>Project Description📝:-</i></h1>
 
 - First-CS is a basic C# project designed for beginners to practice coding in C#.
 - It serves as a starting point for learning and experimenting with the language's syntax, constructs, and concepts.
