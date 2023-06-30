@@ -61,5 +61,6 @@ Make your changes.
 Submit a pull request.
 Please ensure that your code adheres to the existing coding style and that you provide a clear description of your changes.
 
-License
+<h1 align="center"><i>License:-</i></h1>
 This project is licensed under the MIT License. For more information, please refer to the LICENSE file.
+<hr>
