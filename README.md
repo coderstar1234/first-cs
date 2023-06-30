@@ -20,7 +20,7 @@ To get started with First-CS, follow these steps:
 
 <h1 align="center"><i>Clone the repository:⏳-</i></h1>
 
-bash
+<h2 align="center"><i>bash-</i></h2>
 Copy code
 $ git clone https://github.com/your-username/first-cs.git
 Navigate to the project directory:
