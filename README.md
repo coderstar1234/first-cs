@@ -16,7 +16,7 @@
 - It serves as a starting point for learning and experimenting with the language's syntax, constructs, and concepts.
 <hr>
 <h1 align="center"><i>Installation:⏳-</i></h1>
-To get started with First-CS, follow these steps:
+- To get started with First-CS, follow these steps:
 
 <h1 align="center"><i>Clone the repository:⏳-</i></h1>
 
