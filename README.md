@@ -17,7 +17,7 @@
 <hr>
 <h1 align="center"><i>Installation:⏳-</i></h1>
 - To get started with First-CS, follow these steps:
-
+<hr>
 <h1 align="center"><i>Clone the repository:⏳-</i></h1>
 
 <h2 align="center"><i>bash-</i></h2>
