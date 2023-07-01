@@ -54,7 +54,11 @@ Feel free to replace the existing code with your own logic and run the program t
 
 <h1 align="center"><i>Contributing:-</i></h1>
 
-Contributions to First-CS are welcome! If you have any bug fixes, improvements, or new features to suggest, please follow these steps:
+- Contributions to First-CS are welcome!
+  <p align="center"> If you have any bug fixes,</p>
+   
+   <p aing="right"><b>improvements, or new features to suggest, </b></p>
+   please follow these steps:
 
 Fork the repository.
 Create a new branch.
