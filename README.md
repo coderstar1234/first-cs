@@ -60,8 +60,8 @@ Feel free to replace the existing code with your own logic and run the program t
  <p aing="right"><b>improvements, or new features to suggest, </b></p>
  <h2 align="center">please follow these steps:</h2>
 
-Fork the repository.
-Create a new branch.
+- Fork the repository.
+- Create a new branch.
 Make your changes.
 Submit a pull request.
 Please ensure that your code adheres to the existing coding style and that you provide a clear description of your changes.
