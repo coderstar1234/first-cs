@@ -57,8 +57,8 @@ Feel free to replace the existing code with your own logic and run the program t
 - Contributions to First-CS are welcome!
   <p align="center"> If you have any bug fixes,</p>
    
-   <p aing="right"><b>improvements, or new features to suggest, </b></p>
-   please follow these steps:
+ <p aing="right"><b>improvements, or new features to suggest, </b></p>
+ <h2 align="center">please follow these steps:</h2>
 
 Fork the repository.
 Create a new branch.
