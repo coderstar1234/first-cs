@@ -63,7 +63,7 @@ Feel free to replace the existing code with your own logic and run the program t
 - Fork the repository.
 - Create a new branch.
 - Make your changes.
-Submit a pull request.
+- Submit a pull request.
 Please ensure that your code adheres to the existing coding style and that you provide a clear description of your changes.
 
 <h1 align="center"><i>License:-</i></h1>
