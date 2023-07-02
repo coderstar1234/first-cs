@@ -52,7 +52,7 @@ class Program
 }
 Feel free to replace the existing code with your own logic and run the program to see the output.
 
-<h1 align="center"><i>Contributing:-</i></h1>
+<h1 align="center"><i>Contributing:👭-</i></h1>
 
 - Contributions to First-CS are welcome!
   <p align="center"> If you have any bug fixes,</p>
