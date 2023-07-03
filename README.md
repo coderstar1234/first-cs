@@ -53,7 +53,7 @@ class Program<br>
 }<br>
 
 - Feel free to replace the existing code with your own logic and run the program to see the output.
-
+<hr>
 <h1 align="center"><i>Contributing:👭-</i></h1>
 
 - Contributions to First-CS are welcome!
