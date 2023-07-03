@@ -46,7 +46,7 @@ using System;
 class Program<br>
 {<br>
     static void Main(string[] args)<br>
-    {
+    {<br>
         // Add your code here
         Console.WriteLine("Hello, world!");
     }
