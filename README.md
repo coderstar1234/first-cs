@@ -43,7 +43,7 @@ csharp
 Copy code
 using System;
 
-class Program
+class Program<br>
 {
     static void Main(string[] args)
     {
