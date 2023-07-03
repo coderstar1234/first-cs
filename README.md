@@ -39,8 +39,7 @@ The project includes a Program.cs file with a basic Main method. You can modify 
 
 Here's an example of the default code in Program.cs:
 
-csharp
-Copy code
+
 using System;
 
 class Program<br>
