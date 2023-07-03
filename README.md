@@ -50,7 +50,7 @@ class Program<br>
         // Add your code here<br>
         Console.WriteLine("Hello, world!");<br>
     }<br>
-}
+}<br>
 Feel free to replace the existing code with your own logic and run the program to see the output.
 
 <h1 align="center"><i>Contributing:👭-</i></h1>
