@@ -40,7 +40,7 @@ The project includes a Program.cs file with a basic Main method. You can modify 
 Here's an example of the default code in Program.cs:
 
 
-using System;
+<h2 align="center">using System;</h2>
 
 class Program<br>
 {<br>
