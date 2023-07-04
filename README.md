@@ -36,7 +36,8 @@ Copy code
 $ dotnet build
 <h1 align="center"><i>Usage:-</i></h1>
 
-- The project includes a Program.cs file with a basic Main method. You can modify this file and add your own C# code to experiment with different concepts. The Main method serves as the entry point of the program and will be executed when the application runs.
+- The project includes a Program.cs file with a basic Main method. 
+- You can modify this file and add your own C# code to experiment with different concepts. The Main method serves as the entry point of the program and will be executed when the application runs.
 
 Here's an example of the default code in Program.cs:
 
