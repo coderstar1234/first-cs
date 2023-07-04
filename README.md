@@ -24,7 +24,7 @@
 <h2 align="center"><i>bash-</i></h2>
 Copy code
 $ git clone https://github.com/your-username/first-cs.git
-Navigate to the project directory:
+<h2 align="center"><i>Navigate to the project directory:</i></h2>
 
 bash
 Copy code
